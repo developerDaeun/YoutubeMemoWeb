@@ -1,0 +1,74 @@
+.logo {
+	width: 200px;
+	height: 50px;
+	margin: 30px auto 10px auto;
+	font: bold 3.5em Georgia, serif;
+	color: #d5d5d5;
+	text-shadow: 2px 4px 5px white;
+	text-align: center;
+}
+.logo-bottom-frame { 
+	position: relative; 
+	width: 210px;
+	height: 70px;
+	margin: auto;
+}
+.logo-bottom {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	top: 5px;
+	font: bold 1.0em Georgia, serif;
+	color: #d5d5d5;
+	text-shadow: 1px 3px 5px white;
+}
+.title{
+	font: bold 1.5em "Times New Roman", sans-serif;
+	color: #ffa7a7;
+}
+.banner{
+	position: absolute;
+	width:300px;
+	height:150px;
+	top: 20px;
+	left: 20px;
+}
+.banner2{
+	position: absolute;
+	width:150px;
+	height:200px;
+	top: 20px;
+	left: 20px;
+}
+iframe{
+	position: relative;
+	margin: auto;
+	width: 740px;
+	height: 480px;
+}
+#sub{
+	color: salmon; 
+	background: white; 
+	border-radius: 0.5em; 
+	font-size: 1.3em; 
+	font-family: 'Times New Roman', sans-serif;
+}
+#form_textarea{
+	position: relative;
+    display: inline-block;
+    padding: ...;
+    width: 504.13px;
+    height: 386.8px;
+}
+#test *{
+	font: bold 1.0em "Times New Roman", sans-serif;
+	color: #ffd8d8;
+}
+#test a:hover{
+	color: red;
+	background: transparent;
+}
+body{
+	background: url('../resource/sky.jpg');
+	background-size: 2000px 900px;
+}

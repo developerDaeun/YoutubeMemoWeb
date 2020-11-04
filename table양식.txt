@@ -1,0 +1,8 @@
+database¸í: fly
+
+create table fly(
+    title varchar(300) not null,
+    iframe varchar(300) not null,
+    time varchar(100) not null,
+    primary key(title)
+    );
